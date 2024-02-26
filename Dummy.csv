@@ -1,0 +1,8 @@
+_start meta data
+Name,MobileNumber,Network
+String,Integer,String
+,,
+_end meta data
+Deepak,98765,Jio
+Mahesh,94572,Airtel
+Krishna,98245,Idea
